@@ -46,7 +46,7 @@ profiles:
   #- icon: academicons/orcid
     #url: https://orcid.org/
 
-Professional:
+professional:
   - Chip Manufacuturing
   - Data Visualization
   - Polymer Science
