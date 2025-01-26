@@ -55,9 +55,8 @@ profiles:
 interests:
   - Chip Manufacuturing
   - Data Visualization
-  - Polymer Science
   - Rock Climbing
-  - Fiction Writing
+  - Reading & Writing
 
 education:
   - area: PhD Material Science
