@@ -52,10 +52,12 @@ profiles:
   #- Rock Climbing
   #- Fiction Writing
 
-professional:
+interests:
   - Chip Manufacuturing
   - Data Visualization
   - Polymer Science
+  - Rock Climbing
+  - Fiction Writing
 
 education:
   - area: PhD Material Science
