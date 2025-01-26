@@ -3,7 +3,7 @@
 title: Ruolan (Iris) Fan
 
 # Name pronunciation (optional)
-name_pronunciation: Ruolan Fan
+#name_pronunciation: Ruolan Fan
 
 # Full name (for SEO)
 first_name: Ruolan (Iris) 
