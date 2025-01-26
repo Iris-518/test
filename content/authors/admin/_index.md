@@ -3,7 +3,7 @@
 title: 范若兰
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Fan Ruolan
 
 # Full name (for SEO)
 first_name: Ruolan (Iris) 
