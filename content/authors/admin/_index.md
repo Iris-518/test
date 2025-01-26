@@ -46,15 +46,16 @@ profiles:
   #- icon: academicons/orcid
     #url: https://orcid.org/
 
-professional:
-  - Chip Manufacuturing
-  - Data Visualization
-  - Polymer Science
 
 #interests:
   #- Cognitive Psychology
   #- Rock Climbing
   #- Fiction Writing
+
+professional:
+  - Chip Manufacuturing
+  - Data Visualization
+  - Polymer Science
 
 education:
   - area: PhD Material Science
