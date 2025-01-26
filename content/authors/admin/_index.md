@@ -51,10 +51,10 @@ Professional:
   - Data Visualization
   - Polymer Science
 
-interests:
-  - Cognitive Psychology
-  - Rock Climbing
-  - Fiction Writing
+#interests:
+  #- Cognitive Psychology
+  #- Rock Climbing
+  #- Fiction Writing
 
 education:
   - area: PhD Material Science
