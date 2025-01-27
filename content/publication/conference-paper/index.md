@@ -10,7 +10,6 @@ title: "Polymer-Encapsulated Nanobodies for Robust Biosensing"
 date: "2020-09-04T00:00:00Z"
 doi: "10.1126/sciadv.abc3296"
 
-
 # Author notes (optional)
 #author_notes:
   #- 'Equal contribution'
