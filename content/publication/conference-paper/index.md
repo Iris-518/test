@@ -1,5 +1,6 @@
 ---
 title: "Polymer-Encapsulated Nanobodies for Robust Biosensing"
+
 #authors:
 - admin
 - Jiale Du
@@ -76,5 +77,5 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
-
+---
 
