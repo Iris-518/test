@@ -1,6 +1,6 @@
 ---
 title: "Polymer-Encapsulated Nanobodies for Robust Biosensing"
-#authors:
+authors:
 - admin
 - Jiale Du
 - Kwang-Won Park
@@ -15,8 +15,6 @@ doi: "10.1126/sciadv.abc3296"
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: "2021-04-13T00:00:00Z"
-doi: "10.1021/acsapm.1c00140"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
