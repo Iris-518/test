@@ -1,9 +1,5 @@
 ---
 title: 'Polymer-Encapsulated Nanobodies for Robust Biosensing'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 #authors:
 - admin
 - Jiale Du
@@ -11,6 +7,9 @@ title: 'Polymer-Encapsulated Nanobodies for Robust Biosensing'
 - Lin Hui Chang
 - Eric R. Strieter
 - Trisha L. Andrew
+date: "2020-09-04T00:00:00Z"
+doi: "10.1126/sciadv.abc3296"
+
 
 # Author notes (optional)
 #author_notes:
@@ -46,8 +45,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Custom Link
-#   url: http://example.org
+
 url_pdf: https://doi.org/10.1021/acsapm.1c00140
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -78,5 +76,5 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 #slides: example
----
+
 
