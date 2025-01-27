@@ -1,6 +1,5 @@
 ---
 title: "Polymer-Encapsulated Nanobodies for Robust Biosensing"
-
 #authors:
 - admin
 - Jiale Du
@@ -39,14 +38,13 @@ abstract: To produce next-generation
 
 tags:
 - CVD ENCAPSULATION
-- BIOSENSOR
+
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 links:
-
 url_pdf: https://doi.org/10.1021/acsapm.1c00140
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -60,7 +58,7 @@ url_pdf: https://doi.org/10.1021/acsapm.1c00140
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
