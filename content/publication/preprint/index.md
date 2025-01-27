@@ -1,7 +1,9 @@
 ---
 title: "Polymer Tattoos:  Sensors for Real-Time Plant Ozone Damage Monitoring"
 #authors:
-#- admin
+- admin
+- Jae Joo Kim
+- Trisha L. Andrew et al
 date: "2020-09-04T00:00:00Z"
 doi: "10.1126/sciadv.abc3296"
 
