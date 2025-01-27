@@ -19,15 +19,7 @@ date: "2020-09-04T00:00:00Z"
 #publication: ""
 #publication_short: ""
 
-abstract: Climate change is leading to increased concentrations of ground-level ozone in farms and orchards. Persistent
-ozone exposure causes irreversible oxidative damage to plants and reduces crop yield, threatening food supply
-chains. Here, we show that vapor-deposited conducting polymer tattoos on plant leaves can be used to perform
-on-site impedance analysis, which accurately reveals ozone damage, even at low exposure levels. Oxidative
-damage produces a unique change in the high-frequency (>104 Hz) impedance and phase signals of leaves, which
-is not replicated by other abiotic stressors, such as drought. The polymer tattoos are resilient against ozone-
-induced chemical degradation and persist on the leaves of fruiting plants, thus allowing for frequent and long-
-term monitoring of cellular ozone damage in economically important crops, such as grapes and apples.
-
+abstract: Climate change is leading to increased concentrations of ground-level ozone in farms and orchards. Persistent ozone exposure causes irreversible oxidative damage to plants and reduces crop yield, threatening food supply chains. Here, we show that vapor-deposited conducting polymer tattoos on plant leaves can be used to perform on-site impedance analysis, which accurately reveals ozone damage, even at low exposure levels. Oxidative damage produces a unique change in the high-frequency (>10^4Hz) impedance and phase signals of leaves, which is not replicated by other abiotic stressors, such as drought. The polymer tattoos are resilient against ozone-induced chemical degradation and persist on the leaves of fruiting plants, thus allowing for frequent and long-term monitoring of cellular ozone damage in economically important crops, such as grapes and apples.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
