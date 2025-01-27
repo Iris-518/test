@@ -2,9 +2,10 @@
 title: "Polymer Tattoos: Sensors for Real-Time Plant Ozone Damage Monitoring"
 authors:
 - admin
-- Trisha L. Andrew
+- Jae Joon Kim
+- Trisha L. Andrew et al
 date: "2020-09-04T00:00:00Z"
-doi: "10.1126/sciadv.abc3296"
+#doi: "10.1126/sciadv.abc3296"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +19,14 @@ doi: "10.1126/sciadv.abc3296"
 #publication: ""
 #publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Climate change is leading to increased concentrations of ground-level ozone in farms and orchards. Persistent
+ozone exposure causes irreversible oxidative damage to plants and reduces crop yield, threatening food supply
+chains. Here, we show that vapor-deposited conducting polymer tattoos on plant leaves can be used to perform
+on-site impedance analysis, which accurately reveals ozone damage, even at low exposure levels. Oxidative
+damage produces a unique change in the high-frequency (>104 Hz) impedance and phase signals of leaves, which
+is not replicated by other abiotic stressors, such as drought. The polymer tattoos are resilient against ozone-
+induced chemical degradation and persist on the leaves of fruiting plants, thus allowing for frequent and long-
+term monitoring of cellular ozone damage in economically important crops, such as grapes and apples.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
