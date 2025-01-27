@@ -38,8 +38,7 @@ abstract: To produce next-generation, shelf-stable biosensors for point-of-care 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Encapsulation
-  - Biosensor
+  - nonobody biosensor
 
 # Display this page in the Featured widget?
 featured: true

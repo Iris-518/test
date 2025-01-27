@@ -25,7 +25,7 @@ abstract: Climate change is leading to increased concentrations of ground-level 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- OCVD THIN FILM
+- OCVD thin film
 
 featured: true
 
