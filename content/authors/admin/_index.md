@@ -190,6 +190,6 @@ education:
 
 ## About Me
 
-Hi, welcome to Iris's page. 
-An material engineer improving chip manufacuturing efficiency.
-A crime novel lover who just begin writing her plots.
+Hi, welcome to Iris's page!
+A materials engineer dedicated to enhancing chip manufacturing efficiency.
+A crime novel enthusiast, now venturing into crafting her own gripping plots.
