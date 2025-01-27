@@ -1,21 +1,21 @@
 ---
 title: "Polymer Tattoos:  Sensors for Real-Time Plant Ozone Damage Monitoring"
-authors:
-- admin
+#authors:
+#- admin
 date: "2020-09-04T00:00:00Z"
 doi: "10.1126/sciadv.abc3296"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+#publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 abstract: Climate change is leading to increased concentrations of ground-level ozone in farms and orchards. Persistent ozone exposure causes irreversible oxidative damage to plants and reduces crop yield, threatening food supply chains. Here, we show that vapor-deposited conducting polymer tattoos on plant leaves can be used to perform on-site impedance analysis, which accurately reveals ozone damage, even at low exposure levels. Oxidative damage produces a unique change in the high-frequency (>104 Hz) impedance and phase signals of leaves, which is not replicated by other abiotic stressors, such as drought. The polymer tattoos are resilient against ozone- induced chemical degradation and persist on the leaves of fruiting plants, thus allowing for frequent and long- term monitoring of cellular ozone damage in economically important crops, such as grapes and apples.
 
@@ -28,8 +28,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+#- name: Custom Link
+  #url: http://example.org
 url_pdf: https://www.science.org/doi/epdf/10.1126/sciadv.abc3296
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
@@ -62,10 +62,3 @@ image:
 #slides: example
 ---
 
-#This work is driven by the results in my [previous paper](/publication/conference-paper/) on #LLMs.
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Add the publication's **full text** or **supplementary notes** here. You can use rich #formatting such as including [code, math, and images](https://docs.hugoblox.com/content/#writing-markdown-latex/).
