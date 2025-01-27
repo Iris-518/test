@@ -18,7 +18,7 @@ authors:
   #- 'Equal contribution'
 
 date: '2021-04-13T00:00:00Z'
-doi: 'https://doi.org/10.1021/acsapm.1c00140'
+doi: '10.1021/acsapm.1c00140'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -86,7 +86,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-  - example
+  - #example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
