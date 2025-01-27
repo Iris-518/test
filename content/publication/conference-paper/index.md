@@ -4,21 +4,21 @@ title: 'Polymer-Encapsulated Nanobodies for Robust Biosensing'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Jiale Du
-  - Kwang-Won Park
-  - Lin Hui Chang
-  - Eric R. Strieter
-  - Trisha L. Andrew
+#authors:
+- admin
+- Jiale Du
+- Kwang-Won Park
+- Lin Hui Chang
+- Eric R. Strieter
+- Trisha L. Andrew
 
 # Author notes (optional)
 #author_notes:
   #- 'Equal contribution'
   #- 'Equal contribution'
 
-date: '2021-04-13T00:00:00Z'
-doi: '10.1021/acsapm.1c00140'
+date: "2021-04-13T00:00:00Z"
+doi: "10.1021/acsapm.1c00140"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -38,8 +38,8 @@ abstract: To produce next-generation
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - CVD ENCAPSULATION
-  - BIOSENSOR
+- CVD ENCAPSULATION
+- BIOSENSOR
 
 # Display this page in the Featured widget?
 featured: true
