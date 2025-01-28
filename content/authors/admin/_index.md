@@ -165,7 +165,14 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+skills:
+  - name: Technical Skills
+    items:
+      - name: Thin film creation
+        description: 'surface modification (plasma, grafting, electrochemical), Chemical Vapor Deposition (CVD), spin coating, photolithography, etching, electroplating, sol-gel.'
 
+        #percent: 80
+        #icon: code-bracket
 awards:
   - name: The AVS 68th Symposium 2022, Thin Films for Soft Electronics, Oral Presentation
     #url: https://www.coursera.org/learn/neural-networks-deep-learning

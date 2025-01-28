@@ -28,8 +28,7 @@ sections:
     content:
       title: Awards
       username: admin
-    design:
-      show_awards_percentage: true
+  
   #- block: resume-languages
     #content:
       #title: Languages
