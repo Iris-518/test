@@ -167,18 +167,18 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - name: The AVS 68th Symposium 2022, Thin Films for Soft Electronics, Oral Presentation
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
-    year: '2022'
-    #awarder: Coursera
-    #icon: coursera
+  - title: Applied Machine Learning in Python
+    url: https://www.coursera.org/account/accomplishments/certificate/ZJ8L4WTA2JZS
+    date: '2022-04-27'
+    awarder: Coursera
+    icon: coursera
     #summary: |
       #I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  #- name: UMassAmherst, ResearchFest 2022, Oral Presentation and Poster (William E. McEwen Award)
-    #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    #year: '2022'
-    #awarder: edX
-    #icon: edx
+  - title: Applied Plotting, Charting & Data Representation in Python
+    url: https://www.coursera.org/account/accomplishments/certificate/GRD6LDMP9GZX
+    date: '2022-04-14'
+    awarder: Coursera
+    icon: Coursera
     #summary: |
       #Learned:
       #- Synthesize your own blockchain solutions
