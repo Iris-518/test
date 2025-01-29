@@ -1,6 +1,6 @@
 ---
 title: 《如何成为优秀的大脑饲养员》
-#summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: 喂好大脑，事半功倍
 date: 2023-10-27
 
 # Featured image
