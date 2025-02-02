@@ -67,7 +67,8 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
-      url: {"$id":"1","innerException":null,"message":"The user 'System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource.","typeName":"Microsoft.TeamFoundation.Framework.Server.UnauthorizedRequestException, Microsoft.TeamFoundation.Framework.Server","typeKey":"UnauthorizedRequestException","errorCode":0,"eventId":3000}
+      url: https://pipelinesghubeus14.actions.githubusercontent.com/ifCvL7ej3tcCkvloCzQBJRAjsjnzjF7TteXnVOY4arLRO7zy1q/_apis/pipelines/workflows/13094737089/artifacts?api-version=6.0-preview
+      
     runs-on: ubuntu-latest
     needs: build
     steps:
