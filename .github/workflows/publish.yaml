@@ -67,7 +67,7 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: {"$id":"1","innerException":null,"message":"The user 'System:PublicAccess;aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa' is not authorized to access this resource.","typeName":"Microsoft.TeamFoundation.Framework.Server.UnauthorizedRequestException, Microsoft.TeamFoundation.Framework.Server","typeKey":"UnauthorizedRequestException","errorCode":0,"eventId":3000}
     runs-on: ubuntu-latest
     needs: build
     steps:
