@@ -78,23 +78,21 @@ jobs:
 
 
   # Deploy website to GitHub Pages hosting
-deploy:
+  deploy:
     if: github.repository_owner != 'HugoBlox'
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-     
-    
-    runs-on: ubuntu-latest
-    needs: build
     steps:
-    - name: List Available Artifacts
-      run: |
-        echo "Fetching list of artifacts..."
-        curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-             -H "Accept: application/vnd.github+json" \
-              https://api.github.com/repos/${{ github.repository }}/actions/artifacts
+      - name: Checkout Code
+        uses: actions/checkout@v4
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
