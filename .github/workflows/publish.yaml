@@ -57,7 +57,7 @@ jobs:
 
       - name: Upload artifact
         # Pin explicitly to v1.0.12 to ensure it uses upload-artifact@v4 internally
-        uses: actions/upload-pages-artifact@v1.0.12
+        uses: actions/upload-pages-artifact@main
         with:
           path: ./public
 
